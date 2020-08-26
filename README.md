@@ -1,16 +1,18 @@
-### Hi there 👋
+<table width="100%"> 
+  <tr>
+    <td width="50%">
 
-<!--
-**rfoxxxy/rfoxxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp; <br> [![Spotify](http://rf0x3d.me/)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </td>
+  <td width="50%">
+    <p align="center">
+      <b>Pages:</b><br />
+      <a href="https://vk.com/rfoxxxy" alt="VK"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/logo_vk_outline_28.svg"></img></a>
+      <a href="https://instagram.com/rf0x3dd" alt="Instagram"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/story_outline_28.svg"></img></a>
+      <a href="https://rf0x3d.su" alt="Website"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/globe_outline_28.svg"></img></a>
+      <a href="https://t.me/rf0x1d" alt="Telegram"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/location_outline_28.svg"></img></a>
+      <a href="https://t.me/postironiya666" alt="Telegram Chat"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/chats_outline_28.svg"></img></a>
+    </p>
+  </td>
+</table>

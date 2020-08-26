@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](http://rf0x3d.me)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
+&nbsp; <br> [![Spotify](https://rf0x3d.su/spotify)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
 
   </td>
   <td width="50%">

@@ -6,6 +6,7 @@
 
 ## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/computer_outline_28.svg) Pages
   [![Website](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/globe_outline_28.svg)](https://rf0x3d.su)
+  [![Donate](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/money_transfer_outline_28.svg)](https://rf0x3d.su/donate)
   [![VK](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/logo_vk_outline_28.svg)](https://vk.com/rfoxxxy)
   [![Instagram](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/story_outline_28.svg)](https://instagram.com/rf0x3dd)
   [![Telegram](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/location_outline_28.svg)](https://t.me/rf0x1d)

@@ -1,22 +1,32 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://rf0x3d.su/spotify)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
+## 🎵 Spotify Now Playing
 
-  </td>
-  <td width="50%">
 
-<br />
-<p align="center"><b>Pages:</b><br />
-      <a href="https://vk.com/rfoxxxy" alt="VK"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/logo_vk_outline_28.svg"></img></a>
-      <a href="https://instagram.com/rf0x3dd" alt="Instagram"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/story_outline_28.svg"></img></a>
-      <a href="https://rf0x3d.su" alt="Website"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/globe_outline_28.svg"></img></a>
-      <a href="https://t.me/rf0x1d" alt="Telegram"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/location_outline_28.svg"></img></a>
-      <a href="https://t.me/postironiya666" alt="Telegram Chat"><img src="https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/chats_outline_28.svg"></img></a>
-    </p>
-</p>
-</td>
-</table>
+[![Spotify](https://rf0x3d.su/spotify)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
+## 💻 Pages
+  [![Website](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/globe_outline_28.svg)](https://rf0x3d.su)
+  [![VK](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/logo_vk_outline_28.svg)](https://vk.com/rfoxxxy)
+  [![Instagram](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/story_outline_28.svg)](https://instagram.com/rf0x3dd)
+  [![Telegram](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/location_outline_28.svg)](https://t.me/rf0x1d)
+  [![Telegram Chat](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/chats_outline_28.svg)](https://t.me/postironiya666)
+
+## 👨🏾‍💻 My knowledge
+![Python](https://rf0x3d.su/maybe_assets/language-python.png)
+![NodeJS](https://rf0x3d.su/maybe_assets/language-javascript.png)
+![Java](https://rf0x3d.su/maybe_assets/language-java.png)
+![Kotlin](https://rf0x3d.su/maybe_assets/language-kotlin.png)
+![Golang](https://rf0x3d.su/maybe_assets/language-go.png)
+![Lua](https://rf0x3d.su/maybe_assets/language-lua.png)
+![HTML](https://rf0x3d.su/maybe_assets/language-html5.png)
+![CSS](https://rf0x3d.su/maybe_assets/language-css3.png)
+
+
+## 📊 Github Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rfoxxxy&show_icons=true&theme=vue)
+
+## 🛠 Repositories
+[![Socks5Checker](https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=Socks5Checker&show_owner=true&theme=vue)](https://github.com/rfoxxxyshit/Socks5Checker)
+[![VKSpammer](https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=VKSpammer&show_owner=true&theme=vue)](https://github.com/rfoxxxyshit/VKSpammer)
+[![Natribot](https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=natribot&show_owner=true&theme=vue)](https://github.com/rfoxxxyshit/natribot)
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=html-template&show_owner=true&theme=vue)](https://github.com/rfoxxxyshit/html-template) 

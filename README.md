@@ -12,7 +12,7 @@
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/rf0x1d)
   [![Telegram Chat](https://rf0x3d.su/maybe_assets/chats_outline_28.svg)](https://t.me/postironiya666)
 
-## ![ladno](https://raw.githubusercontent.com/VKCOM/icons/master/src/svg/28/airplay_video_outline_28.svg) My knowledge
+## ![ladno](https://rf0x3d.su/maybe_assets/airplay_video_outline_28.svg) My knowledge
 ![Python](https://rf0x3d.su/maybe_assets/language-python.svg)
 ![NodeJS](https://rf0x3d.su/maybe_assets/nodejs.svg)
 ![Java](https://rf0x3d.su/maybe_assets/language-java.svg)

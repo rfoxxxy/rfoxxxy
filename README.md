@@ -1,7 +1,7 @@
 ## ![ladno](https://rf0x3d.su/maybe_assets/music_outline_28.svg) Spotify Now Playing
 
 
-[![oh yes spotify now playing rip...](https://rf0x3d.su/spotify)](https://open.spotify.com/user/welxx3k52jb086pnosvs82fx4)
+[![oh yes spotify now playing rip...](https://rf0x3d.su/spotify)](https://open.spotify.com/user/f7ym6y1eyyxpquhc0zt6ddocs)
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Pages

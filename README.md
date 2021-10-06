@@ -1,7 +1,5 @@
-## ![ladno](https://rf0x3d.su/maybe_assets/music_outline_28.svg) Spotify Now Playing
-
-
-[![oh yes spotify now playing rip...](https://rf0x3d.su/spotify)](https://open.spotify.com/user/f7ym6y1eyyxpquhc0zt6ddocs)
+## 👋 Oh hello there!
+I'm rf0x3d, a pseudo-devops engineer from trashcan, who knows many shitty programming languages and some frameworks, but not a C/C++ lol
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
@@ -17,7 +15,7 @@
 ![Java](https://rf0x3d.su/maybe_assets/language-java.svg)
 ![Kotlin](https://rf0x3d.su/maybe_assets/language-kotlin.svg)
 ![Golang](https://rf0x3d.su/maybe_assets/language-go.svg)
-![Lua](https://rf0x3d.su/maybe_assets/language-lua.svg)
+![ReactJS](https://rf0x3d.su/maybe_assets/react.svg)
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
 

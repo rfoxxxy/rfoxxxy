@@ -12,10 +12,8 @@ I'm rf0x3d, a pseudo-devops engineer from trashcan, who knows many shitty progra
 ## ![ladno](https://rf0x3d.su/maybe_assets/airplay_outline_28.svg) My knowledge
 ![Python](https://rf0x3d.su/maybe_assets/language-python.svg)
 ![NodeJS](https://rf0x3d.su/maybe_assets/nodejs.svg)
-![Java](https://rf0x3d.su/maybe_assets/language-java.svg)
 ![Kotlin](https://rf0x3d.su/maybe_assets/language-kotlin.svg)
 ![Golang](https://rf0x3d.su/maybe_assets/language-go.svg)
-![ReactJS](https://rf0x3d.su/maybe_assets/react.svg)
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
 

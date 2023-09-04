@@ -1,5 +1,5 @@
 ## 👋 Oh hello there!
-I'm rf0x3d, a SRE and middle python developer. Creating useful stuff with great UI/UX, loving cats and and improving the world.
+I'm rf0x3d, a SRE and middle python developer. Creating useful stuff with great UI/UX, loving cats and improving the world.
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources

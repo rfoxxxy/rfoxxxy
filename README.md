@@ -1,5 +1,5 @@
 ## 👋 Oh hello there!
-I'm rf0x3d, a pseudo-devops engineer from trashcan, who knows many shitty programming languages and some frameworks, but not a C/C++ lol
+I'm rf0x3d, a SRE and middle python developer. Creating useful stuff with great UI/UX, loving cats and and improving the world.
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
@@ -12,7 +12,6 @@ I'm rf0x3d, a pseudo-devops engineer from trashcan, who knows many shitty progra
 ## ![ladno](https://rf0x3d.su/maybe_assets/airplay_outline_28.svg) My knowledge
 ![Python](https://rf0x3d.su/maybe_assets/language-python.svg)
 ![NodeJS](https://rf0x3d.su/maybe_assets/nodejs.svg)
-![Kotlin](https://rf0x3d.su/maybe_assets/language-kotlin.svg)
 ![Golang](https://rf0x3d.su/maybe_assets/language-go.svg)
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
